@@ -1,0 +1,18 @@
+.header_div{
+    background: bisque;
+    color: blue;
+    font-family: 'Yatra One', cursive;
+    position:relative;
+    top:0;
+    letter-spacing:4px;
+}
+.footer_div{
+    position:fixed;
+    bottom:0%;
+    width:100%;
+    background-color: cadetblue;
+    color: crimson;
+    text-align:center;
+    line-height:3;
+    font-size:20px;
+}
